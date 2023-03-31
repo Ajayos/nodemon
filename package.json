@@ -1,5 +1,5 @@
 {
-  "name": "@Ajayos/nodemon",
+  "name": "@ajayos/nodemon",
   "homepage": "https://nodemon.io",
   "author": {
     "name": "Remy Sharp , Ajayos",
@@ -68,5 +68,5 @@
     "touch": "^3.1.0",
     "undefsafe": "^2.0.5"
   },
-  "version": "0.0.0-development"
+  "version": "0.0.3"
 }
