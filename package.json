@@ -1,6 +1,7 @@
 {
   "name": "@ajayos/nodemon",
   "homepage": "https://nodemon.io",
+  "version": "0.0.5",
   "author": {
     "name": "Ajayos",
     "url": "https://github.com/Ajayos"
@@ -67,6 +68,6 @@
     "supports-color": "^5.5.0",
     "touch": "^3.1.0",
     "undefsafe": "^2.0.5"
-  },
-  "version": "0.0.4"
+  }
+ 
 }
